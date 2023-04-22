@@ -1,0 +1,40 @@
+.container {
+    margin: 0 auto;
+    width: 800px;
+    background-color: lightgray;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+img.octocat {
+    height: 200px;
+    background-color: white;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.top {
+    background-color: cyan;
+}
+
+.middle {
+    background-color: lightsalmon;
+    justify-content: space-evenly;
+}
+
+p {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
